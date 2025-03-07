@@ -1,4 +1,4 @@
-<img width="1322" alt="Screenshot 2025-03-07 at 9 50 47 AM" src="https://github.com/user-attachments/assets/e583938d-de78-4ead-9f4d-137268d68ade" /># Script to Motion Video Generator
+# Script to Motion Video Generator
 
 Transform your written scripts into dynamic motion videos with AI-generated visuals and voiceovers using this Python-based tool. Powered by Hugging Face's text-to-video diffusion models, Google Text-to-Speech (gTTS), and Gradio for an interactive UI, this project generates continuous video segments with voiceovers in various styles.
 
